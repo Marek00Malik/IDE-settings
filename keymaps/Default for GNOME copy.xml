@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="ctrl windows" second-keystroke="up" />
+  </action>
+</keymap>
