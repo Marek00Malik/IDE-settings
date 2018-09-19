@@ -5,10 +5,10 @@
   <component name="LessonStateBase">
     <option name="myMap">
       <map>
-        <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
+        <entry key="CodeAssistance.CodeFormatting" value="PASSED" />
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
-        <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
-        <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
+        <entry key="CodeAssistance.ParameterInfo" value="PASSED" />
+        <entry key="CodeAssistance.QuickPopups" value="PASSED" />
         <entry key="Completions.BasicCompletion" value="PASSED" />
         <entry key="Completions.CompletionwithTab" value="PASSED" />
         <entry key="Completions.SmartTypeCompletion" value="PASSED" />
@@ -17,28 +17,60 @@
         <entry key="EditorBasics.CommentLine" value="PASSED" />
         <entry key="EditorBasics.DeleteLine" value="PASSED" />
         <entry key="EditorBasics.Duplicate" value="PASSED" />
-        <entry key="EditorBasics.Move" value="NOT_PASSED" />
+        <entry key="EditorBasics.Move" value="PASSED" />
         <entry key="EditorBasics.MultipleSelections" value="PASSED" />
         <entry key="EditorBasics.Selection" value="PASSED" />
-        <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
-        <entry key="Navigation.FileStructure" value="NOT_PASSED" />
-        <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
+        <entry key="Navigation.Declaration/Implementation" value="PASSED" />
+        <entry key="Navigation.FileStructure" value="PASSED" />
+        <entry key="Navigation.JumptoSource" value="PASSED" />
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
-        <entry key="Refactorings.ExtractMethod" value="NOT_PASSED" />
-        <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
-        <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
-        <entry key="Refactorings.Rename" value="NOT_PASSED" />
+        <entry key="Refactorings.ExtractMethod" value="PASSED" />
+        <entry key="Refactorings.ExtractVariable/Field" value="PASSED" />
+        <entry key="Refactorings.RefactoringBasics" value="PASSED" />
+        <entry key="Refactorings.Rename" value="PASSED" />
       </map>
     </option>
   </component>
   <component name="StatisticBase">
     <option name="persistedLessonId2State">
       <map>
+        <entry key="CodeAssistance.CodeFormatting">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="34545" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.EditorCodingAssistance">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1532634370349" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.ParameterInfo">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="15781" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.QuickPopups">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="22679" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Completions.BasicCompletion">
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
-              <option name="timestamp" value="50532" />
+              <option name="timestamp" value="70827" />
             </StatisticData>
           </value>
         </entry>
@@ -46,7 +78,7 @@
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
-              <option name="timestamp" value="56333" />
+              <option name="timestamp" value="5626" />
             </StatisticData>
           </value>
         </entry>
@@ -54,7 +86,7 @@
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
-              <option name="timestamp" value="15165" />
+              <option name="timestamp" value="17231" />
             </StatisticData>
           </value>
         </entry>
@@ -62,7 +94,7 @@
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
-              <option name="timestamp" value="44534" />
+              <option name="timestamp" value="36310" />
             </StatisticData>
           </value>
         </entry>
@@ -70,7 +102,7 @@
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
-              <option name="timestamp" value="951219" />
+              <option name="timestamp" value="29579" />
             </StatisticData>
           </value>
         </entry>
@@ -78,7 +110,7 @@
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
-              <option name="timestamp" value="14346" />
+              <option name="timestamp" value="19252" />
             </StatisticData>
           </value>
         </entry>
@@ -86,7 +118,7 @@
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
-              <option name="timestamp" value="1723758" />
+              <option name="timestamp" value="5274" />
             </StatisticData>
           </value>
         </entry>
@@ -94,15 +126,15 @@
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
-              <option name="timestamp" value="1771197" />
+              <option name="timestamp" value="9992" />
             </StatisticData>
           </value>
         </entry>
         <entry key="EditorBasics.Move">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1532586883201" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="25265" />
             </StatisticData>
           </value>
         </entry>
@@ -110,7 +142,7 @@
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
-              <option name="timestamp" value="1546847" />
+              <option name="timestamp" value="48101" />
             </StatisticData>
           </value>
         </entry>
@@ -118,7 +150,71 @@
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
-              <option name="timestamp" value="1770291" />
+              <option name="timestamp" value="15447" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Declaration/Implementation">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="9283" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.FileStructure">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="9389" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.JumptoSource">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="30578" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Next/PreviousOccurrences">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1532634563385" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.ExtractMethod">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="5412" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.ExtractVariable/Field">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="12734" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.RefactoringBasics">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="131028" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.Rename">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="855166" />
             </StatisticData>
           </value>
         </entry>

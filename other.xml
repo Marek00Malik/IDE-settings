@@ -1,0 +1,20 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Desktop/GitCode/Statoil/ingo/config/intellij-java-google-style.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.7.0" last-modified="1507890100000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.11.1/bin/node">
+      <version-cache version="8.11.1" last-modified="1522365301000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.7.0/bin/node">
+      <version-cache version="8.7.0" last-modified="1507890100000" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>

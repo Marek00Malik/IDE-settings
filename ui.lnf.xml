@@ -1,6 +1,5 @@
 <application>
   <component name="UISettings">
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="36" />
-    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="FONT_SCALE" value="1.0" />
   </component>
 </application>
