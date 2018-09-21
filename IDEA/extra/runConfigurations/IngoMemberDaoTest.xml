@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="IngoMemberDaoTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="extra2-api_test" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.sfr.loyalty.dao.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="com.sfr.loyalty.dao" />
+    <option name="MAIN_CLASS_NAME" value="com.sfr.loyalty.dao.IngoMemberDaoTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="VM_PARAMETERS" value="-ea -DRUN_ENV=LOCAL -DSET_JENKINS_PROPERTIES=false -Dapi_context=extra2-web/ui/app/builds -Dapi_ext_properties=conf/api.properties -Dapi_int_properties=LOCAL/application.properties" />
+    <option name="PARAMETERS" value="" />
+    <envs>
+      <env name="RUN_ENV" value="LOCAL" />
+    </envs>
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks="updateSchema" externalProjectPath="$PROJECT_DIR$" vmOptions="" scriptParameters="" />
+    </method>
+  </configuration>
+</component>

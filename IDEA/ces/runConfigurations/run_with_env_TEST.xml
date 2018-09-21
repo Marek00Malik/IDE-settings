@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="run with env TEST" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.sfr.web.WebApplicationServer" />
+    <module name="engage-api_main" />
+    <option name="VM_PARAMETERS" value="-ea -Dapi_ext_properties=$PROJECT_DIR$/properties/DEV.properties" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

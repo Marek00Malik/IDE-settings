@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="extra run" type="Application" factoryName="Application">
+    <envs>
+      <env name="RUN_ENV" value="LOCAL" />
+    </envs>
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="com.sfr.extra2.http.server.App" />
+    <module name="extra2_main" />
+    <option name="VM_PARAMETERS" value="-DRUN_ENV=LOCAL -Dapi_context=extra2-web/ui/app/builds -Dapi_ext_properties=conf/api.properties -Dapi_int_properties=LOCAL/application.properties" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks="updateSchema" externalProjectPath="$PROJECT_DIR$" vmOptions="" scriptParameters="" />
+    </method>
+  </configuration>
+</component>
