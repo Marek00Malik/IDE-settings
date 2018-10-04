@@ -30,11 +30,5 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://qa-extra2-db-core.c5coi55naswp.eu-west-1.rds.amazonaws.com:5432/extra2</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="fes@localhost" uuid="f5420aa2-e9d3-4838-81c1-67d5eeda3260">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/fueleservicetest</jdbc-url>
-    </data-source>
   </component>
 </application>
