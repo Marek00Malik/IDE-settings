@@ -30,5 +30,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://qa-extra2-db-core.c5coi55naswp.eu-west-1.rds.amazonaws.com:5432/extra2</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="ckid@test-unstable" uuid="3bb769ff-eeb6-4ff2-9b10-d554096c2afc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://test-circlekid-postgres-unstable.cxhawdkaaflk.eu-west-1.rds.amazonaws.com:5432/circlekid</jdbc-url>
+    </data-source>
   </component>
 </application>
