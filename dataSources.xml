@@ -36,5 +36,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://test-ingo-postgres.test.gneis.io:5432/ingo</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="kid-test (stable)" uuid="97837acf-5f32-4ebd-b4f5-a41014459e63">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://test-circlekid-postgres-stable.cxhawdkaaflk.eu-west-1.rds.amazonaws.com:5432/circlekid</jdbc-url>
+    </data-source>
   </component>
 </application>
