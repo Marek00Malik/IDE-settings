@@ -22,7 +22,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://test-extra2-db-core-stable.cxhawdkaaflk.eu-west-1.rds.amazonaws.com:5432/extra2</jdbc-url>
+      <jdbc-url>jdbc:postgresql://test-extra2-db-core-stable.test.gneis.io:5432/extra2</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="extra2-qa" uuid="b13ea706-6de7-4dd0-adfa-3706c61c8f05">
       <driver-ref>postgresql</driver-ref>
