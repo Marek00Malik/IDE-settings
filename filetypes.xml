@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="test-tor-nodes" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping ext="scsv" type="PLAIN_TEXT" />
       <mapping pattern="jenvrc" type="Properties" />
