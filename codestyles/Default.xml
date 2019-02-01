@@ -1,11 +1,5 @@
 <code_scheme name="Default" version="173">
-  <GroovyCodeStyleSettings>
-    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99999" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99999" />
-  </GroovyCodeStyleSettings>
-  <JavaCodeStyleSettings>
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99999" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999999" />
-  </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
 </code_scheme>
