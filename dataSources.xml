@@ -48,5 +48,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://qa-ingo-postgres.qa.gneis.io:5432/ingo</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="extra2-prod" uuid="20234013-b274-4943-9c34-97fae23e5159">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prod-extra2-db-core.cvuzncdgyub5.eu-west-1.rds.amazonaws.com:5432/extra2</jdbc-url>
+    </data-source>
   </component>
 </application>
