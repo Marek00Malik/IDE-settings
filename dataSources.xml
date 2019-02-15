@@ -36,7 +36,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://test-ingo-postgres.test.gneis.io:5432/ingo</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="loyalty@localhost" uuid="08c9bae5-e131-4e7e-b47d-aa3afa9bbaf4">
+    <data-source source="LOCAL" name="localhost@loyalty" uuid="08c9bae5-e131-4e7e-b47d-aa3afa9bbaf4">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -53,6 +53,12 @@
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://prod-extra2-db-core.cvuzncdgyub5.eu-west-1.rds.amazonaws.com:5432/extra2</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="localhost@ingo" uuid="40642b24-8709-4cc4-a21e-91a4f19bb059">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/ingo</jdbc-url>
     </data-source>
   </component>
 </application>
