@@ -60,5 +60,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/ingo</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="localhost@extra" uuid="a2046ab5-a115-434d-9fc3-dc2955b22f2a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5433/extra2</jdbc-url>
+    </data-source>
   </component>
 </application>
