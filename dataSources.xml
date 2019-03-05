@@ -66,5 +66,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5433/extra2</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="INGO@PROD" uuid="524e36bc-c1cf-4f08-9268-641153b66872">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prod-ingo-postgres.prod.gneis.io:5432/ingo</jdbc-url>
+    </data-source>
   </component>
 </application>
