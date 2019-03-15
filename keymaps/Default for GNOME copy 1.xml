@@ -1,0 +1,4 @@
+<keymap version="1" name="Default for GNOME copy 1" parent="Default for GNOME">
+  <action id="ChangesView.Move" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+</keymap>
