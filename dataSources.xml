@@ -72,5 +72,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://prod-ingo-postgres.prod.gneis.io:5432/ingo</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="localhost@fes" uuid="77ae9ff0-8e7d-46e4-84f6-0614e0f9c9ac">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/fueleservicetest</jdbc-url>
+    </data-source>
   </component>
 </application>
