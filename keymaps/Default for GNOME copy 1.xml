@@ -1,4 +1,17 @@
 <keymap version="1" name="Default for GNOME copy 1" parent="Default for GNOME">
   <action id="ChangesView.Move" />
+  <action id="DecrementWindowHeight" />
+  <action id="IncrementWindowHeight" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
