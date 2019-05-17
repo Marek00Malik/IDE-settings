@@ -78,5 +78,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/fueleservicetest</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="loyalty-prod" uuid="911e2112-e493-4af2-98bc-e718953b53d0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prod-extra2-db-core.cvuzncdgyub5.eu-west-1.rds.amazonaws.com:5432/loyalty</jdbc-url>
+    </data-source>
   </component>
 </application>
