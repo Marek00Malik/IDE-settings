@@ -82,7 +82,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://prod-extra2-db-core.cvuzncdgyub5.eu-west-1.rds.amazonaws.com:5432/loyalty</jdbc-url>
+      <jdbc-url>jdbc:postgresql://prod-extra2-db-core.cvuzncdgyub5.eu-west-1.rds.amazonaws.com:5432/extra2</jdbc-url>
     </data-source>
   </component>
 </application>
