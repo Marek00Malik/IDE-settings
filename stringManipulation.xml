@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="6" />
+        <option name="actionsExecuted" value="7" />
       </DonationNagger>
     </option>
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
 </application>
