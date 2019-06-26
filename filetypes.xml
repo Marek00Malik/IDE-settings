@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="worker" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="XML" />
     </extensionMap>
   </component>
 </application>
