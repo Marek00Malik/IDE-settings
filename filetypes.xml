@@ -4,6 +4,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping ext="sjon" type="PLAIN_TEXT" />
       <mapping ext="worker" type="PLAIN_TEXT" />
       <mapping ext="bin" type="XML" />
     </extensionMap>
