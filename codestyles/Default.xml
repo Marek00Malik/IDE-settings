@@ -18,6 +18,7 @@
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="kotlin">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
