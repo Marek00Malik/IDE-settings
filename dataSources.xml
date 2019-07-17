@@ -1,12 +1,12 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="FES production" uuid="09a32a26-e8c5-4daa-9f98-ce2ad5c40497">
+    <data-source source="LOCAL" name="FES@PROD" uuid="09a32a26-e8c5-4daa-9f98-ce2ad5c40497">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://prod-fuel-e-service-postgres.cvuzncdgyub5.eu-west-1.rds.amazonaws.com:5432/fueleserviceprod</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="FES test" uuid="9c35b46c-94a3-44f3-83e0-ac05683c20b1">
+    <data-source source="LOCAL" name="FES@TEST" uuid="9c35b46c-94a3-44f3-83e0-ac05683c20b1">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -24,13 +24,13 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://qa-extra2-db-core.c5coi55naswp.eu-west-1.rds.amazonaws.com:5432/extra2</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="INGO test" uuid="27b25ae5-4d70-4b9c-aa0f-b6e28eeebcf3">
+    <data-source source="LOCAL" name="INGO@TEST" uuid="27b25ae5-4d70-4b9c-aa0f-b6e28eeebcf3">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://test-ingo-postgres.test.gneis.io:5432/ingo</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="loyalty@localhost" uuid="08c9bae5-e131-4e7e-b47d-aa3afa9bbaf4">
+    <data-source source="LOCAL" name="localhost@loyalty" uuid="08c9bae5-e131-4e7e-b47d-aa3afa9bbaf4">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -76,7 +76,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://prod-extra2-db-core.cvuzncdgyub5.eu-west-1.rds.amazonaws.com:5432/extra2</jdbc-url>
+      <jdbc-url>jdbc:postgresql://prod-extra2-db-core.cvuzncdgyub5.eu-west-1.rds.amazonaws.com:5432/loyalty</jdbc-url>
     </data-source>
   </component>
 </application>
