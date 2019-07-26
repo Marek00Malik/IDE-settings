@@ -10,7 +10,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://test-fuel-e-service-postgres-old.cxhawdkaaflk.eu-west-1.rds.amazonaws.com:5432/fueleservicetest</jdbc-url>
+      <jdbc-url>jdbc:postgresql://test-fuel-e-service-postgres.cxhawdkaaflk.eu-west-1.rds.amazonaws.com:5432/fueleservicetest</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="extra2-test (stable)" uuid="e26822d1-34dc-43a2-8917-c24dc0ca5fda">
       <driver-ref>postgresql</driver-ref>
